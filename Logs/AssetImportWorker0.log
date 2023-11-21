@@ -194,3 +194,33 @@ Received Import Request.
   path: Assets/Scenes
   artifactKey: Guid(2d251e0863133604893c26310dc130a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes using Guid(2d251e0863133604893c26310dc130a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8ae82be706e3244ff57292b662a99ef') in 0.019225 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 478.868313 seconds.
+  path: Assets/Simple Modular Dungeon
+  artifactKey: Guid(aa787d97eca1e1c42b146329f95ee776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon using Guid(aa787d97eca1e1c42b146329f95ee776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c00603222750f9994997e49289808e') in 0.010042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.373597 seconds.
+  path: Assets/Simple Modular Dungeon/Instructions
+  artifactKey: Guid(2cb97a019c7e97b4c81bdb9e2d19abe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Instructions using Guid(2cb97a019c7e97b4c81bdb9e2d19abe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e486543e2fc55e993af5ef3be76cf7') in 0.011729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.720916 seconds.
+  path: Assets/Simple Modular Dungeon/Instructions/Simple Modular Dungeon PDF (1).pdf
+  artifactKey: Guid(3ed368c2875c70549b6fbd7746f5bcd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Instructions/Simple Modular Dungeon PDF (1).pdf using Guid(3ed368c2875c70549b6fbd7746f5bcd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd299b5569ee5d54edc261ab7958652') in 0.046378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.615149 seconds.
+  path: Assets/Simple Modular Dungeon/Scenes
+  artifactKey: Guid(218eeb05022cbdc47aea1bedaa607e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Scenes using Guid(218eeb05022cbdc47aea1bedaa607e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d253fd14bed1ec93477d29a98f97b3') in 0.010348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.664668 seconds.
+  path: Assets/Simple Modular Dungeon/Scenes/Modular Dungeon.unity
+  artifactKey: Guid(27915ac565aadf048b89a94d619c501d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Scenes/Modular Dungeon.unity using Guid(27915ac565aadf048b89a94d619c501d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5916b3b71fce0fcbc9fa21569833361') in 0.010977 seconds 
